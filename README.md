@@ -5,7 +5,7 @@
 ## 功能特点
 
 * 自定义 VBS 文件名
-* 自定义 Everything 搜索条件
+* 自定义 Everythhing 搜索条件
 * 自动生成 VBS 搜索脚本
 * 自动创建 Windows 快捷方式（LNK）
 * 支持 ICO 图标
@@ -29,7 +29,7 @@ python -m pip install Pillow pywin32
 
 ## 使用方法
 
-1. 运行 `everthing-quick`。
+1. 运行 `everything-quick`。
 2. 输入快捷方式名称。
 3. 输入 Everything 搜索语句。
 4. 选择需要使用的图标。
